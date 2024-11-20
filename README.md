@@ -1,24 +1,39 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## LEGAL TEAM REVIEW AUTOMATION USING AI
+AI-driven automation system for legal document review, incorporating Optical Character Recognition (OCR),and  Natural Language Processing (NLP).
+
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Legal document review has always been a long
+manual process. A proper review is essential to ensure compliance
+with regulations, investigate risks, and examine essential clauses
+in contracts and agreements. The traditional method of review
+is ineffective, prone to errors, and costly where a considerable
+number of documents are being handled. This paper proposes
+an AI-driven automation system for legal document review,
+integrating Optical Character Recognition (OCR), Natural Language Processing (NLP), and Machine Language (ML) methods.
+The system automates text extraction, clause identification, and
+compliance checking/validating, producing efficiency and scalability in document review. The automation reduces operational
+inefficiencies, minimizes risks, and allows legal professionals to
+focus on more complex tasks. Results also indicate that the system
+is highly accurate and rapid, and also that the system has great
+potential to supply this market.
+
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+- Clause and Entity Extraction.
+- Risk Assessment and Compliance Checks.
+- Optical Character Recognition (OCR).
+- Semantic Analysis and Contextual Understanding
+-  Scalability and Customization
+  
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
+* Operating System: Linux (Ubuntu/Debian preferred), macOS, or Windows.
+* Programming Language:Python 3.7 or later
+* Development Environment:Visual Studio Code (VS Code), PyCharm, Jupyter Notebook.
+* Libraries and Frameworks:Text and PDF Processing(PyPDF2,pdfplumber,Pillow (PIL)),Tesseract-OCR and pytesseract for Optical Character Recognition (OCR),spaCy for Natural Language Processing,
 * Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
 * Version Control: Implementation of Git for collaborative development and effective code management.
 * IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
