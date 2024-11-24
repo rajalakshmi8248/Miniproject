@@ -49,19 +49,23 @@ potential to supply this market.
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### SAMPLE DOCUMENT
 
-![Untitled diagram-2024-11-20-083331](https://github.com/user-attachments/assets/d78ad631-a298-40a3-8356-4c8cb994d262)
+![IMAGE SAMPLE](https://github.com/user-attachments/assets/3a4152fd-891a-452f-8c76-4a304b5ced82)
+
 
 
 #### Output- TEXT EXTRACTION
 
-![Untitled diagram-2024-11-20-083331](https://github.com/user-attachments/assets/241d7f0d-8896-479c-b947-1f8d02fa19c3)
+![Screenshot 2024-11-23 043650](https://github.com/user-attachments/assets/f4b43bb2-f377-482c-8933-d3db19a55035)
+
 
 #### Output - compilance Check
 
-![Screenshot 2024-11-23 043812](https://github.com/user-attachments/assets/075a4967-2da2-4d47-a100-0c9f589602f0)
+![Screenshot 2024-11-23 043812](https://github.com/user-attachments/assets/f8cd1352-e953-43b4-8a25-0d88124ed151)
 
 
-![Screenshot 2024-11-23 043904](https://github.com/user-attachments/assets/b47f797d-bd9b-47bc-b78a-f72d76e73174)
+
+![Screenshot 2024-11-23 043904](https://github.com/user-attachments/assets/5f071634-31f0-4cf8-941c-0cabfe4ddb77)
+
 
 
 
