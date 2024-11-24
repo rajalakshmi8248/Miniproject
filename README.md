@@ -69,7 +69,7 @@ potential to supply this market.
 
 
 
-Detection Accuracy for Digital PDF's: 99.5%
+Detection Accuracy for Digital PDF's: 96.5%
 Detection Accuracy for Scanned PDF's: 94.8%
 
 
